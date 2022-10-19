@@ -1,0 +1,14 @@
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\bin\Debug\netcoreapp3.1\SistemaDeHospedagem.exe
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\bin\Debug\netcoreapp3.1\SistemaDeHospedagem.deps.json
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\bin\Debug\netcoreapp3.1\SistemaDeHospedagem.runtimeconfig.json
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\bin\Debug\netcoreapp3.1\SistemaDeHospedagem.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\bin\Debug\netcoreapp3.1\SistemaDeHospedagem.dll
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\bin\Debug\netcoreapp3.1\SistemaDeHospedagem.pdb
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\netcoreapp3.1\SistemaDeHospedagem.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\netcoreapp3.1\SistemaDeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\netcoreapp3.1\SistemaDeHospedagem.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\netcoreapp3.1\SistemaDeHospedagem.AssemblyInfo.cs
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\netcoreapp3.1\SistemaDeHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\netcoreapp3.1\SistemaDeHospedagem.dll
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\netcoreapp3.1\SistemaDeHospedagem.pdb
+C:\Users\mathe\source\repos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\netcoreapp3.1\SistemaDeHospedagem.genruntimeconfig.cache
