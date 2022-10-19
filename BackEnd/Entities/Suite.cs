@@ -1,10 +1,11 @@
-﻿using System;
+﻿using SistemaDeHospedagem.BackEnd.Entities.Enums;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace SistemaDeHospedagem.Entities
+namespace SistemaDeHospedagem.BackEnd.Entities
 {
-    public class Suite
+     class Suite
     {
 
         public string TipoSuite { get; set; }
@@ -20,5 +21,10 @@ namespace SistemaDeHospedagem.Entities
             ValorDiaria = valorDiaria;
         }
 
+        public Suite(int capacidade, decimal valorDiaria)
+        {
+            Capacidade = capacidade;
+            ValorDiaria = valorDiaria;
+        }
     }
 }

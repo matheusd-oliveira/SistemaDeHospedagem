@@ -1,10 +1,11 @@
-﻿using System;
+﻿using SistemaDeHospedagem.BackEnd.Entities;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace SistemaDeHospedagem.Entities
 {
-    public class Reserva
+     class Reserva
     {
 
         public List<Pessoa> Hospedes { get; set; }
